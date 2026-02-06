@@ -102,14 +102,6 @@ Cette modélisation permet :
 
 ---
 
-## 🚀 Perspectives d’amélioration
-- Ajout d’analyses Year-over-Year (YoY)
-- Intégration d’indicateurs socio-économiques
-- Extension à d’autres villes
-- Automatisation du pipeline de données
-
----
-
 ## 👤 Auteur
 **Chaimaa**  
 
