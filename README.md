@@ -112,4 +112,4 @@ Cette modélisation permet :
 
 ## 👤 Auteur
 **Chaimaa**  
-Projet réalisé dans le cadre d’un apprentissage en **Data Analytics & Business Intelligence**.
+
